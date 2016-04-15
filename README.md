@@ -1,4 +1,4 @@
-# haskell_book
+# Haskell Book
 
 
 Learning Haskell Book
